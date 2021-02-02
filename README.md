@@ -5,7 +5,7 @@ Cool CSS stuff that you could use on your website!
 
 ## Example Template
 
-Please [click here](https://raymond-1227.github.io/rainbow-border-cards) to see how it will look like!
+Please [click here](https://raymond-1227.github.io/rainbow-cards) to see how it will look like!
 
 ## Credits
 
