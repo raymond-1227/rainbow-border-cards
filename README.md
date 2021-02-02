@@ -1,4 +1,4 @@
-# Rainbow Border Cards
+# Rainbow Cards
 
 ## About
 Cool CSS stuff that you could use on your website!
